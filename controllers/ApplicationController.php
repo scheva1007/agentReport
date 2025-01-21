@@ -3,7 +3,6 @@
 namespace app\controllers;
 
 use app\models\Search;
-use app\models\UserRecord;
 use app\services\ApplicationSearchService;
 use Yii;
 use yii\web\Controller;
